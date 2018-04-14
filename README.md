@@ -1,2 +1,2 @@
 # tyler-react-es6
-Tyler McGinnis React Fundamentals Assignment
+Tyler McGinnis React Fundaments Assignment - ES6 Refactor
